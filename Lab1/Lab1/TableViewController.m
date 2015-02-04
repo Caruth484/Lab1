@@ -79,12 +79,12 @@
     }
     //Add your segues here guys
     
-    /*else if(){
-        [self performSegueWithIdentifier:@"carterSegue" sender:self];
+    else if(indexPath.row == 1){
+        [self performSegueWithIdentifier:@"vinaySegue" sender:self];
     }
     else{
-        [self performSegueWithIdentifier:@"carterSegue" sender:self];
-    }*/
+        [self performSegueWithIdentifier:@"ameyaSegue" sender:self];
+    }
 }
 
 
