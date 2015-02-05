@@ -1,19 +1,21 @@
 //
 //  AppDelegate.m
-//  Lab1
+//  ClassAssignment1
 //
-//  Created by ch484-mac3 on 1/28/15.
-//
+//  Created by Ameya Shetye on 2/1/15.
+//  Copyright (c) 2015 SMU. All rights reserved.
 //
 
 #import "AppDelegate.h"
+#import "FirstViewController.h"
+#import "SecondViewController.h"
 
 @interface AppDelegate ()
 
 @end
 
 @implementation AppDelegate
-
+@synthesize tableviewControllermap = _tableviewControllermap;
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
