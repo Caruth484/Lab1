@@ -1,9 +1,9 @@
 //
 //  main.m
-//  Lab1
+//  ClassAssignment1
 //
-//  Created by ch484-mac3 on 1/28/15.
-//
+//  Created by Ameya Shetye on 2/1/15.
+//  Copyright (c) 2015 SMU. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
